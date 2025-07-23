@@ -1,1 +1,2 @@
-# Calories-Burnt-Prediction-using-Machine-Learning
+# Calories-Burnt-Prediction
+## A project work using machine learning model
